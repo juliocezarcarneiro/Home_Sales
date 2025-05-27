@@ -1,6 +1,6 @@
 # 🏡 Home Sales Analysis with SparkSQL
 
-This project uses PySpark and SparkSQL to analyze home sales data, focusing on various metrics like average prices by house features and build year. You'll learn how to create temporary views, partition data, cache and uncache tables, and measure performance with Spark.
+This project uses PySpark and SparkSQL to analyze home sales data, focusing on various metrics like average prices by house features and build year. In this project, temporary views, partition data, cache and uncache tables, and measure performance with Spark was developed.
 
 ## 📁 Repository Setup
 
@@ -36,7 +36,7 @@ This project uses PySpark and SparkSQL to analyze home sales data, focusing on v
 
 * Partition data by date_built and read/write Parquet format.
 
-🧪 Technologies Used
+## 🧪 Technologies Used
 
 * Python
 
