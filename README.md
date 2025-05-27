@@ -4,7 +4,7 @@ This project uses PySpark and SparkSQL to analyze home sales data, focusing on v
 
 ## 📁 Repository Setup
 
-1. Clone this repo: git clone https://github.com/your-username/Home_Sales.git
+1. Clone this repo: git clone https://github.com/juliocezarcarneiro/Home_Sales.git
 
 2. Navigate into the repo: cd Home_Sales
 
